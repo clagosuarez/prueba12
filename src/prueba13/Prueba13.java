@@ -19,6 +19,7 @@ public class Prueba13 {
         // master
 
         //rama2
+        System.out.println("master1");
     }
 
 }
